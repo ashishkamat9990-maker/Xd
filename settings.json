@@ -1,14 +1,14 @@
 {
-  "name": "PixelNest",
+  "name": "PixelNest2",
   "bot-account": {
-    "username": "PixelNest",
+    "username": "PixelNest2",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
-    "version": "1.21.1",
+    "ip": "avinashboy.aternos.me",
+    "port": 47974,
+    "version": "1.21.8",
     "try-creative": false
   },
   "position": {
